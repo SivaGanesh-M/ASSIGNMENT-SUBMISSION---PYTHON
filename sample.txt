@@ -1,0 +1,2 @@
+This is the sample file to read the content of the file.
+append the new line in the file
